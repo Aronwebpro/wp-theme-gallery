@@ -1,0 +1,9 @@
+Menu setup:
+
+*Making submenu for parent element use element without link.
+
+*Choose "Custom Link" menu and then add submenu items under this element. 
+
+*After child elements was added delete "Custom link" URL and save Menu. 
+
+*Otherwise your menu item after clicking not expand submenu but goes to your clicked menu url.  
