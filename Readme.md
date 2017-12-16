@@ -3,4 +3,4 @@ AronWebpro-Gallery theme is built for business oriented websites to show picture
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-## [Project Demo](http://floralglorydesign.com/){:target="_blank"}
+## <a href="http://floralglorydesign.com/" target="_blank">Project Demo</a>
